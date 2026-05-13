@@ -1,0 +1,35 @@
+
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows files
+Thumbs.db
+Desktop.ini
